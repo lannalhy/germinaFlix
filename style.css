@@ -126,8 +126,7 @@ footer {
     max-width: 800px;
     margin: 20px auto; 
     padding: 20px;
-    background-color: #2e0c3c;
-    border-radius: 8px;
+    background-color: rgb(69, 0, 92);
 }
 
 .container img {
@@ -148,7 +147,7 @@ footer {
     color: #f1f1f1;
     margin-top: 20px;
     margin-bottom: 10px;
-    border-bottom: 1px solid rgb(149, 47, 212);
+    border-bottom: 1px solid rgb(255, 255, 255);
     padding-bottom: 5px;
 }
 

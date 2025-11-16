@@ -30,9 +30,15 @@ body {
 
 
 }
-img{
+
+.Foto{
+    width: 350px;
+    height: 350px;
     padding: 40px; 
+    border-radius: 50%;
+    object-fit: cover;
 }
+
 p{
     color: #ffffff;
     padding: 5px; 
