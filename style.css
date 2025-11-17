@@ -265,3 +265,8 @@ ol{
 ul{
     color: white;
 }
+
+.lista {
+    margin-left: 3vw;
+    padding-bottom: 3vw;
+}
